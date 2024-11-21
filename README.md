@@ -7,15 +7,15 @@
 
 #### Kelompok 13 Deep Learning:
 
-- Rizki Adrian Bennovry - 121450073 
+- Rizki Adrian Bennovry - 121450073 https://github.com/rizkiadrianbennovry
   
-- Alber Analafean - 121450146 
+- Alber Analafean - 121450146 https://github.com/alberanalafean22
   
-- Nabilah Andika Fitriani - 121450139 
+- Nabilah Andika Fitriani - 121450139 https://github.com/.....
 
-- Catherine Firdhasari Maulina Sinaga - 121450072
+- Catherine Firdhasari Maulina Sinaga - 121450072 https://github.com/CatherineSinaga
   
-- Helma Lia Putri - 121450100
+- Helma Lia Putri - 121450100 https://github.com/100helmaliap
 
 
 Data: 
