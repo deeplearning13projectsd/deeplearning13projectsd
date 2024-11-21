@@ -27,4 +27,3 @@ Metode Pengumpulan Data: Data Crawling (APIs)
 Metode Model : Transfer Learning (Arsitektur ConvNeXt)
 
 Bahasa pemrograman: PYTHON, HTML, CSS
-[Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) ![HTML](https://upload.wikimedia.org/wikipedia/commons/d/d5/HTML5_logo_and_wordmark.svg) ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg) ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/20/TensorFlow_logo_and_wordmark.svg) ![Keras](https://upload.wikimedia.org/wikipedia/commons/9/9b/Keras_logo.svg)
