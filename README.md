@@ -1,9 +1,6 @@
-# 👋 Hi, Our from Team @deeplearning13projectsd
-
 # Implementasi Model Transfer Learning Arsitektur ConvNeXt untuk Klasifikasi Suara Burung di Taman Nasional Way Kambas
 
-#### Topik: Implementasi Variasi Model Transfer Learning untuk klasifikasi birds call and song di Indonesia Bagian Barat
-
+## avcla2024.streamlit.app
 
 #### Kelompok 13 Deep Learning:
 
