@@ -9,10 +9,10 @@
 - Alber Analafean - 121450146 https://github.com/alberanalafean22
   
 - Nabilah Andika Fitriani - 121450139 https://github.com/nabilahandika
-
-- Catherine Firdhasari Maulina Sinaga - 121450072 https://github.com/CatherineSinaga
   
 - Helma Lia Putri - 121450100 https://github.com/100helmaliap
+
+- Catherine Firdhasari Maulina Sinaga - 121450072 https://github.com/CatherineSinaga
 
 
 Data: 
